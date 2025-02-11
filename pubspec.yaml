@@ -1,0 +1,106 @@
+name: flutter_application_2
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.0.0
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.4
+  cloud_firestore: ^5.3.0
+  random_string: ^2.3.1
+  fluttertoast: ^8.2.8
+  carousel_slider: ^5.0.0
+  intl: ^0.19.0
+  url_launcher: ^6.3.0
+  flutter_font_icons: ^2.2.7
+  font_awesome_flutter: ^10.7.0
+  flutter_rating_bar: ^4.0.1
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.jpg
+    - assets/images/photo1.jpg
+    - assets/images/photo2.jpg
+    - assets/images/photo3.jpg
+    - assets/images/photo4.jpg
+    - assets/images/photo5.jpg
+    - assets/images/photo6.jpg
+    - assets/images/ac.jpg
+    - assets/images/furniture.jpg
+    - assets/images/gas.jpg
+    - assets/images/motor.jpg
+    - assets/images/furniture2.jpg
+    - assets/images/electrical.jpg
+    - assets/images/mechanical.jpg
+    - assets/images/bed.jpg
+    - assets/images/coffeecorner.jpg
+    - assets/images/recliner.jpg
+    - assets/images/sofa.jpg
+    - assets/images/table.jpg
+    - assets/images/doorwardrobe.jpg
+    - assets/images/chassis.jpg
+    - assets/images/carmotor.jpg
+    - assets/images/electromechanics.jpg
+    - assets/images/battery.jpg
+    - assets/images/microwave.jpg
+    - assets/images/dishwasher.jpg
+    - assets/images/refrigerator.jpg
+    - assets/images/airconditioner.jpeg
+    - assets/images/Salem.jpg
+    - assets/images/profilenormal.jpg
+    - assets/images/gas1.jpg
+    - assets/images/electricHeater.jpg
+    - assets/images/exhaust.jpg
+    - assets/images/gearbox.jpg
+    - assets/images/clutch.jpg
+    - assets/workers/MahmoudKahraba.jpg
+    - assets/workers/EmanElsayed.jpg
+    - assets/workers/MoustafaQamar.jpg
+    - assets/workers/NellyKareem.jpg
+    - assets/workers/MohyElsharqawy.jpg
+    - assets/workers/FarouqElfeshawy.jpg
+    - assets/workers/MoatazEltouny.jpg
+    - assets/workers/AymanAshraf.jpg
+    - assets/workers/WaelGomaa.jpg
+    - assets/workers/IbrahimElabyad.jpg
+    - assets/workers/KhalafEldahshory.jpg
+    - assets/workers/MagedElmasry.jpg
+    - assets/workers/EssamOmar.jpg
+    - assets/workers/AhmedMoussa.jpg
+    - assets/workers/MedhatShalaby.jpg
+    - assets/workers/RamyEmam.jpg
+    - assets/workers/HishamAbbas.jpg
+    - assets/workers/MahmoudKahraba.jpg
+    - assets/workers/EmamAshour.jpg
+    - assets/users/AbdelrhmanAbdelkader.jpg
+    - assets/users/ShahdYasser.jpg
+    - assets/images/phone.png
+    - assets/images/map.jpg
+    - assets/images/cash.png
+    - assets/images/credit.jpg
+    - assets/images/car.png
+    - assets/gif/salahly.gif
+    - assets/images/coupons.jpg
+    - assets/gif/fixing.gif
+    - assets/images/qrcode.png
+    - assets/images/star.png
+    - assets/images/mohamed.jpg
+    - assets/gif/repairr.gif
+    - assets/gif/Hi.gif
